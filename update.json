@@ -1,8 +1,8 @@
 ﻿{
-    "versionCode":  7,
-    "versionName":  "1.7",
-    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v7.apk",
-    "apkName":  "app_v7.apk",
-    "releaseNotes":  "Test Update",
+    "versionCode":  8,
+    "versionName":  "1.8",
+    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v8.apk",
+    "apkName":  "app_v8.apk",
+    "releaseNotes":  "Fix Update2",
     "minVersionCode":  1
 }
