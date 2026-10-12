@@ -1,8 +1,8 @@
 ﻿{
-    "versionCode":  3,
-    "versionName":  "1.3",
-    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v3.apk",
-    "apkName":  "app_v3.apk",
-    "releaseNotes":  "New Virson",
+    "versionCode":  4,
+    "versionName":  "1.4",
+    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v4.apk",
+    "apkName":  "app_v4.apk",
+    "releaseNotes":  "New Version",
     "minVersionCode":  1
 }
