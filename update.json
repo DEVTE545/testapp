@@ -1,8 +1,8 @@
 ﻿{
-    "versionCode":  4,
-    "versionName":  "1.4",
-    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v4.apk",
-    "apkName":  "app_v4.apk",
+    "versionCode":  5,
+    "versionName":  "1.5",
+    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v5.apk",
+    "apkName":  "app_v5.apk",
     "releaseNotes":  "New Version",
     "minVersionCode":  1
 }
