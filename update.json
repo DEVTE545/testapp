@@ -1,8 +1,8 @@
 ﻿{
-    "versionCode":  8,
-    "versionName":  "1.8",
-    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v8.apk",
-    "apkName":  "app_v8.apk",
-    "releaseNotes":  "Fix Update2",
+    "versionCode":  9,
+    "versionName":  "1.9",
+    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v9.apk",
+    "apkName":  "app_v9.apk",
+    "releaseNotes":  "FIX AUTHENTICATING",
     "minVersionCode":  1
 }
