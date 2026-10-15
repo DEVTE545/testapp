@@ -1,8 +1,8 @@
-﻿{
-    "versionCode":  9,
-    "versionName":  "1.9",
-    "apkUrl":  "https://raw.githubusercontent.com/DEVTE545/testapp/main/app_v9.apk",
-    "apkName":  "app_v9.apk",
-    "releaseNotes":  "FIX AUTHENTICATING",
+{
+    "versionCode":  10,
+    "versionName":  "1.10",
+    "apkUrl":  "https://github.com/DEVTE545/testapp/releases/latest/download/DevteTunnel.apk",
+    "apkName":  "DevteTunnel.apk",
+    "releaseNotes":  "AUTO SERVERS",
     "minVersionCode":  1
 }
