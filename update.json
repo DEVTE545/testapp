@@ -1,8 +1,8 @@
 {
     "versionCode":  12,
-    "versionName":  "1.12.1",
+    "versionName":  "1.12.2",
     "apkUrl":  "https://github.com/DEVTE545/testapp/releases/latest/download/DevteTunnel.apk",
     "apkName":  "DevteTunnel.apk",
-    "releaseNotes":  "FIX MX SERVERS",
+    "releaseNotes":  "FIX MX",
     "minVersionCode":  1
 }
